@@ -1,6 +1,6 @@
 # odin-recipes
-HTML Assignment for The Odin Project
-This repo should show that I have an understanding of the following:
+## HTML Assignment for The Odin Project
+#### This repo should show that I have an understanding of the following:
 
 * Initializing a git repository and clone it locally
 * Using basic git commands in Terminal
