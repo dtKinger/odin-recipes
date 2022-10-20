@@ -3,42 +3,54 @@ Body {
   Font-size: 18px;
   Font-weight: 400;
   }
-  
-  H1 {
-    Font-size: 2em;
-    Font-weight: 600;
-    Margin-bottom: 40px;
-    color: #1a1a1a;
-  }
-  
-  H2 {
-    Font-size: 1.75em;
-    Font-weight: 550;
-    Margin-bottom: 30px;
-    Color: #6e6e6e;
-  }
-  
-  H3 {
-    Font-size: 1.4em;
-    Font-weight: 550;
-    Margin-bottom: 20px;
-    Color: #a3a3a3;
-  }
-  
-  H4 {
-    Font-size: 1.25em;
-    Font-weight: 550;
-  }
-  
-  H5 {
-    Font-size: 1em;
-    Font-weight: 700;
-  }
-  
-  p, a, H6 {
-    Font-size: 1em;
-  }
 
-  strong {
-    font-weight: 700;
-  }
+.container {
+  display: block;
+  text-align: center;
+  margin: 40px;
+  padding: 10px;
+  max-width: 80vw;
+}
+
+H1 {
+  Font-size: 2em;
+  Font-weight: 600;
+  Margin-bottom: 40px;
+  /*color: #1a1a1a;*/
+  background-color: black;
+  color: white;
+}
+
+H2 {
+  Font-size: 1.75em;
+  Font-weight: 550;
+  Margin-bottom: 30px;
+  /*Color: #6e6e6e;*/
+  background-color: rgb(45, 45, 45);
+  color: white;
+}
+
+H3 {
+  Font-size: 1.4em;
+  Font-weight: 550;
+  Margin-bottom: 20px;
+  Color: #a3a3a3;
+}
+
+H4 {
+  Font-size: 1.25em;
+  Font-weight: 550;
+}
+
+H5 {
+  Font-size: 1em;
+  Font-weight: 700;
+}
+
+p, a, H6 {
+  Font-size: 1em;
+}
+
+strong {
+  font-weight: 700;
+}
