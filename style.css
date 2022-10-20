@@ -10,7 +10,7 @@ Body {
   margin: 40px;
   padding: 10px;
   max-width: 80vw;
-  background-color: rgb(86, 86, 182, AA);
+  background-color: white;
 }
 
 .container ul, ol {
