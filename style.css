@@ -10,10 +10,15 @@ Body {
   margin: 40px;
   padding: 10px;
   max-width: 80vw;
+  background-color: rgb(86, 86, 182, AA);
 }
 
 .container ul, ol {
   text-align: left;
+}
+
+img {
+  max-width: 70vw;
 }
 
 H1 {
