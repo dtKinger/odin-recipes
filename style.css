@@ -2,6 +2,7 @@ Body {
   font-family: 'Roboto Mono', monospace;
   Font-size: 18px;
   Font-weight: 400;
+  box-sizing: border-box;
   }
 
 .container {
