@@ -12,6 +12,10 @@ Body {
   max-width: 80vw;
 }
 
+.container ul, ol {
+  text-align: left;
+}
+
 H1 {
   Font-size: 2em;
   Font-weight: 600;
