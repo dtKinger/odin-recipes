@@ -1,4 +1,4 @@
-Body {
+body {
   font-family: 'Roboto Mono', monospace;
   Font-size: 18px;
   Font-weight: 400;
@@ -22,7 +22,7 @@ img {
   max-width: 70vw;
 }
 
-H1 {
+h1 {
   Font-size: 2em;
   Font-weight: 600;
   Margin-bottom: 40px;
@@ -31,7 +31,7 @@ H1 {
   color: white;
 }
 
-H2 {
+h2 {
   Font-size: 1.75em;
   Font-weight: 550;
   Margin-bottom: 30px;
@@ -40,24 +40,24 @@ H2 {
   color: white;
 }
 
-H3 {
+h3 {
   Font-size: 1.4em;
   Font-weight: 550;
   Margin-bottom: 20px;
   Color: #a3a3a3;
 }
 
-H4 {
+h4 {
   Font-size: 1.25em;
   Font-weight: 550;
 }
 
-H5 {
+h5 {
   Font-size: 1em;
   Font-weight: 700;
 }
 
-p, a, H6 {
+p, a, h6 {
   Font-size: 1em;
 }
 
